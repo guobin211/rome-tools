@@ -1,0 +1,7 @@
+{
+  "name": "commands",
+  "module": "src/mod.ts",
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}

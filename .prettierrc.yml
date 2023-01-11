@@ -1,0 +1,13 @@
+  printWidth: 120
+  tabWidth: 2
+  useTabs: false
+  semi: false
+  singleQuote: true
+  quoteProps: 'preserve'
+  jsxSingleQuote: false
+  trailingComma: 'es5'
+  rangeStart: 0
+  rangeEnd: 300
+  bracketSpacing: true
+  htmlWhitespaceSensitivity: 'css'
+  endOfLine: 'lf'

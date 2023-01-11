@@ -56,10 +56,12 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
         "resizable": true,
-        "title": "rome-tools",
-        "width": 800
+        "height": 600,
+        "width": 800,
+        "title": "",
+        "decorations": false,
+        "transparent": true
       }
     ]
   }
